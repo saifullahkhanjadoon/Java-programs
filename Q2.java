@@ -1,3 +1,7 @@
+// Q2. Write a program in Java to read a set of numbers to store it in one dimensional array A, copy the elements
+// 	in another Array B in reverse order, find the sum of individual 
+// 	array A and B and copy the result in array C and display all three arrays.
+
 import java.util.Scanner;
 public class Q2{
 
@@ -36,4 +40,5 @@ public class Q2{
 				{	for(int i:A3)
 					System.out.print(i+" ");
 }}
+
 }
