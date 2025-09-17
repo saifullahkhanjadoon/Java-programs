@@ -1,3 +1,6 @@
+// Q3 Write a program in Java that display Fibonacci series of n number.
+// 	For example if n=7 the generated output should look like as: 1 1 2 3 5 8 13 
+
 import java.util.Scanner;
 public class Q3{
 
@@ -20,4 +23,5 @@ public class Q3{
 			System.out.print(x+"  ");}
 			System.out.println();
 		}
+
 		}
